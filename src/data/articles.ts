@@ -1,0 +1,90 @@
+import { ArticleType } from "@/types";
+
+const articles: ArticleType[] = [
+    {
+      id: "1",
+      author: "Jane Doe",
+      title: "The Future of AI in Healthcare",
+      body: "Artificial intelligence is revolutionizing the healthcare industry by improving diagnostics, patient care, and treatment plans.",
+    //   banner: "https://example.com/images/ai-healthcare.jpg",
+      category: "Technology",
+      createdAt: new Date("2024-03-20"),
+    },
+    {
+      id: "2",
+      author: "John Smith",
+      title: "Climate Change and Its Impact on Agriculture",
+      body: "Rising global temperatures are affecting crop yields, soil quality, and water availability, posing a major challenge to global food security.",
+      category: "Environment",
+      createdAt: new Date("2024-02-15"),
+    },
+    {
+      id: "3",
+      author: "Emily Johnson",
+      title: "Understanding Cryptocurrency Regulations",
+      body: "With the growing popularity of digital currencies, governments worldwide are introducing regulations to ensure security and prevent fraud.",
+    //   banner: "https://example.com/images/crypto-regulations.jpg",
+      category: "Finance",
+      createdAt: new Date("2024-01-10"),
+    },
+    {
+      id: "4",
+      author: "Michael Brown",
+      title: "The Rise of Remote Work Culture",
+      body: "The pandemic accelerated remote work adoption, leading to new trends in workplace flexibility, productivity, and digital collaboration tools.",
+      category: "Business",
+      createdAt: new Date("2024-03-05"),
+    },
+    {
+      id: "5",
+      author: "Sophia Wilson",
+      title: "The Psychology Behind Social Media Addiction",
+      body: "Social media platforms use psychological triggers to increase user engagement, leading to potential addiction and mental health concerns.",
+    //   banner: "https://example.com/images/social-media-addiction.jpg",
+      category: "Health",
+      createdAt: new Date("2024-02-28"),
+    },
+    {
+      id: "6",
+      author: "Daniel Lee",
+      title: "Exploring the Wonders of Space Travel",
+      body: "Space tourism is becoming a reality with companies like SpaceX and Blue Origin paving the way for commercial space travel.",
+      category: "Science",
+      createdAt: new Date("2024-01-22"),
+    },
+    {
+      id: "7",
+      author: "Olivia Martinez",
+      title: "The Benefits of a Plant-Based Diet",
+      body: "Switching to a plant-based diet has significant health and environmental benefits, reducing risks of chronic diseases and carbon footprint.",
+      category: "Health",
+      createdAt: new Date("2024-03-12"),
+    },
+    {
+      id: "8",
+      author: "Ethan Taylor",
+      title: "Cybersecurity Trends in 2024",
+      body: "With cyber threats evolving, businesses must adopt advanced security measures to protect sensitive data from breaches and attacks.",
+      category: "Technology",
+      createdAt: new Date("2024-02-18"),
+    },
+    {
+      id: "9",
+      author: "Emma Robinson",
+      title: "The Art of Minimalist Living",
+      body: "Minimalism is not just about decluttering; it's a lifestyle choice that prioritizes meaningful experiences over material possessions.",
+    //   banner: "https://example.com/images/minimalist-living.jpg",
+      category: "Lifestyle",
+      createdAt: new Date("2024-01-30"),
+    },
+    {
+      id: "10",
+      author: "William Anderson",
+      title: "How to Start Investing as a Beginner",
+      body: "Investing can seem intimidating, but with the right strategy and mindset, anyone can grow their wealth over time.",
+      category: "Finance",
+      createdAt: new Date("2024-03-08"),
+    }
+  ];
+
+  export default articles; 
