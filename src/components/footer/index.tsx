@@ -38,6 +38,12 @@ const Footer = () => (
         <span>{new Date().getFullYear()}.</span>
         <span>All Rights Reserved.</span>
       </Paragraph>
+      <Paragraph className="text-[#08627B] my-3 text-center text-xs lg:text-xs">
+        Designed and Developed by{" "}
+        <a href="https://altarionsystems.co.ke" target="_blank">
+          Altarion Systems
+        </a>
+      </Paragraph>
     </SectionContainer>
   </section>
 );
