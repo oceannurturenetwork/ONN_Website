@@ -2,10 +2,7 @@
 
 import { AppImage, AppLinkButton, SectionContainer } from "@/components/utils";
 import { Card } from "@/components/ui/card";
-import {
-  SectionSubtitle,
-  SectionTitle,
-} from "@/components/utils/section-container";
+import { SectionTitle } from "@/components/utils/section-container";
 import { ListItem, Paragraph } from "@/components/utils/typography";
 import { ArrowRight } from "lucide-react";
 
@@ -14,7 +11,7 @@ const WhoWeAre = () => (
     <Card className="w-full lg:max-w-[60%] h-[350px] p-0 relative overflow-hidden">
       <AppImage
         src={
-          "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744144041/onn/WhatsApp_Image_2025-04-07_at_14.05.28_1_vy8qns.jpg"
+          "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342078/Beach_Clean_Up_uqphsu.webp"
         }
         alt="Who we are"
         title="Who we are"

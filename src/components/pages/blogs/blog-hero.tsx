@@ -22,7 +22,7 @@ const BlogHero = () => {
         {/* <div className="relative overflow-hidden h-[350px] w-[50%]"> */}
         <AppImage
           src={
-            "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744144057/onn/WhatsApp_Image_2025-04-07_at_14.08.21_1_bt8ccm.jpg"
+            "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342085/Rising_Tides1_gei4wy.webp"
           }
           alt="blog hero"
           title="blog hero"

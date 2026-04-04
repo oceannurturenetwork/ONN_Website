@@ -13,19 +13,19 @@ const heroSlides = [
     title:
       "The ocean sustains life – nourishing us, regulating climate and connecting ecosystems across the planet",
     image:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1746570517/onn/hero_1_upeazo.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342082/pexels-tomfisk-4610207_kzqcvb.webp",
   },
   {
     title:
       "We empower coastal communities with sustainable solutions where tradition, innovation, and a deep connection to nature thrive.",
     image:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1746570520/onn/hero_2_tc6cki.jpg", // Replace with an actual image
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342084/walkerssk-beach-1921598_1920_ovsdz1.webp", // Replace with an actual image
   },
   {
     title:
       "At Ocean Nurture Network, we strengthen coastal communities - inspired by people, sustained by nature",
     image:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1746570517/onn/hero_3_mntblp.jpg", // Replace with an actual image
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342081/julius_silver-polynesia-3021072_1920_rncmsq.webp", // Replace with an actual image
   },
 ];
 

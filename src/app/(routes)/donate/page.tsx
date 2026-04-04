@@ -29,7 +29,7 @@ const Page = () => {
               alt="donate hero"
               title="donate hero"
               src={
-                "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1749223174/onn/WhatsApp_Image_2025-06-06_at_18.07.51_cclfjw.jpg"
+                "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342078/Beach_Clean_Up_uqphsu.webp"
               }
               width={150}
               height={100}
@@ -71,11 +71,11 @@ const Page = () => {
               </div>
             ))}
           </div>
-          <div className="flex-1">
+          <div className="flex-1 max-h-[250px]">
             <AppImage
               alt="donation 1"
               title="donation 1"
-              src="https://res.cloudinary.com/dyo0ezwgs/image/upload/v1749221281/onn/2151002014_dgtwbd.jpg"
+              src="https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344100/vertical-aerial-shot-different-boats-parked-edge-shore-near-water_r9nm3q.webp"
               width={150}
               height={100}
               objectFit="cover"
@@ -88,7 +88,7 @@ const Page = () => {
             <AppImage
               alt="why your donation matters"
               title="why your donation matters"
-              src="https://res.cloudinary.com/dyo0ezwgs/image/upload/v1749221281/onn/2151682917_rlavvp.jpg"
+              src="https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344096/underwater-coral-reef-scene-with-fish_wkkt4k.webp"
               width={150}
               height={100}
               objectFit="cover"

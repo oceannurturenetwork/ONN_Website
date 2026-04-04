@@ -1,5 +1,12 @@
-import { Cards, Hero, Impact, Learn, Movement, VoicesOfImpact, WhoWeAre } from "@/components/pages/home";
-import { Partners } from "@/components/pages/involved";
+import {
+  Hero,
+  Impact,
+  Learn,
+  Movement,
+  VoicesOfImpact,
+  WhoWeAre,
+} from "@/components/pages/home";
+// import { Partners } from "@/components/pages/involved";
 import { generateStaticMetadata } from "@/lib/metadata";
 import { Metadata } from "next";
 
@@ -15,7 +22,7 @@ export default function Home() {
       <Movement />
       <Learn />
       <VoicesOfImpact />
-      <Partners />
+      {/*<Partners />*/}
     </>
   );
 }

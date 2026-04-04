@@ -7,7 +7,7 @@ import { DonateModalButton } from "../../utils/donate";
 interface HeroProps {
   title: string;
   subtitle: string;
-  image: string;
+  image?: string;
 }
 
 export const Hero: React.FC<HeroProps> = ({ title, subtitle, image }) => (
@@ -15,7 +15,10 @@ export const Hero: React.FC<HeroProps> = ({ title, subtitle, image }) => (
     <AppImage
       alt={title}
       title={title}
-      src={image}
+      src={
+        image ||
+        "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342078/konradjanik-ocean-5176878_1920_rdwhuv.webp"
+      }
       objectFit="cover"
       className="w-full h-full"
     />

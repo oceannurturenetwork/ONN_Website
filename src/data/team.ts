@@ -18,7 +18,7 @@ const directors: TeamMemberType[] = [
     email: "",
     bio: "Maorine Okeri is an MSc student in Marine and Lacustrine Science and Management at VUB, UGhent, and UAntwerp. She currently works with the UNESCO/IOC Project Office for IODE (OceanTeacher Global Academy), supporting capacity development initiatives in ocean data and information management. Previously, she served as a fisheries research associate at the Kenya Marine and Fisheries Research Institute (KMFRI). She was involved in small-scale fisheries data collection and management, stock assessments of key commercial species, and regional studies such as the Billfish WIO project. Her work also explored the contribution of small-scale fisheries toward the SDGs and conducted vulnerability risk assessments of chondrichthyan species along the Kenyan coast. She is passionate about sustainable fishing, marine ecosystem health, biodiversity conservation, and data-driven marine resource management. Her current research focuses on the stock assessment of grunts, seabreams, and snappers along the Kenyan coast to inform evidence-based fisheries management and conservation strategies.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744133668/onn/42235d1b-acfb-4dc4-81ec-41032a8bf608_tzjr1t.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344096/word_media_image2_b1kxwv.webp",
   },
   {
     name: "Sylvia Gathu",
@@ -26,7 +26,7 @@ const directors: TeamMemberType[] = [
     email: "",
     bio: "I am a passionate environmental scientist and limnologist with a deep commitment to environmental conservation. With extensive experience as a project assistant, I have successfully led environmental initiatives, combining my expertise in research with a strong focus on community engagement. My work has been instrumental in raising awareness about the critical importance of environmental health and inspiring collective action to safeguard our aquatic environments. My research interests include the impact of microplastics on aquatic life, the effects of climate change on aquatic ecosystems, and innovative conservation strategies. My dedication to scientific research and education drives the mission of Ocean Nurture Network, ensuring that our efforts are grounded in the latest environmental science. I am dedicated to protecting marine ecosystems and promoting sustainable practices along the Kenyan coast.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1746808256/onn/WhatsApp_Image_2025-03-04_at_14.56.34_d41d5395_1_l5wm7q.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344097/word_media_image4_d8ohfs.webp",
   },
   {
     name: "Richard Mutua Mzungu",
@@ -34,7 +34,7 @@ const directors: TeamMemberType[] = [
     email: "",
     bio: "Richard Mzungu is a Geographer and Spatial Scientist with a strong academic background and practical expertise in Earth Observation Science, Geographic Information Systems (GIS), and Remote Sensing. I hold a Bachelor of Arts in Geography and a Master of Science in Geoinformatics from Taita Taveta University, Kenya. Currently, I serve as a Fisheries Observer with the Kenya Fisheries Service, bringing over six years of experience and more than 500 sea-days in onboard fisheries observation, data collection, and reporting. My experience spans various types of marine vessels, including research vessels, trawlers, and longliners—with a current focus on longline-trap vessels.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744133449/onn/49730d97-8429-45a5-bd77-6c9008ec2cd7_as0ay7.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344097/word_media_image5_jgvrmv.webp",
   },
   {
     name: "Diana Anyoso",
@@ -42,7 +42,7 @@ const directors: TeamMemberType[] = [
     email: "",
     bio: "Diana Anyoso is a graduate with a Bachelor degree in Coastal and Marine Resource Management. She is a dedicated marine conservationist with a deep-seated commitment safeguarding our oceans and empowering communities to become stewards of their natural environments. With a rich background in marine biology, environmental education, and community development, Diana brings a holistic approach to her work, integrating scientific research with community engagement and education initiatives. Driven by her passion for protecting marine ecosystems, Diana has spent three years working with conservation organization on various conservation projects along the Kenyan Coast.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744133428/onn/1c31d4c2-bf96-4a25-abdd-1e12ced01de4_rjyetz.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344097/word_media_image6_zat90s.webp",
   },
   {
     name: "Abmelech Mureithi",
@@ -50,7 +50,7 @@ const directors: TeamMemberType[] = [
     email: "",
     bio: "Abmelech is an alumnus of JKUAT having graduated with a Bachelor’s degree in Geospatial Information Science (GIS). He is an astute GIS Software user with an extensive background in GIS, Remote Sensing, Photogrammetry, Data analytics and GIS Programming Furthermore, Abmelech demonstrates a passionate commitment to environmental advocacy and actively champions Sustainable Development Goal 14 through community and youth-led initiatives. He brings a dynamic blend of technical expertise and ecological insight to support data-driven decision-making in marine conservation and the sustainable development of the blue economy. At ONN, Abmelech plays a critical role in designing and implementing geospatial solutions that inform marine spatial planning, habitat mapping, and ocean monitoring initiatives. He leverages cutting-edge GIS analysis and remote sensing technologies to generate actionable insights that help protect marine ecosystems and support community-based ocean economies.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744133429/onn/244c871a-b7ee-4c0c-8644-90813ba12ee7_hyuom5.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344097/word_media_image7_sdk2h7.webp",
   },
 ];
 
@@ -61,7 +61,7 @@ const leadership: TeamMemberType[] = [
     email: "",
     bio: "Joab Njue is an environmentalist and marine conservation advocate with over 5 years of experience in water, sanitation and hygiene (WASH), renewable energy, and environmental and social safeguards. He holds a BSc in Environmental Science from Egerton University and a Master’s in Environmental Engineering from Suzhou University of Science and Technology, with certifications in GIS and Cartography. At Ocean Nurture Network, Joab leads impactful projects on marine habitat restoration, plastic pollution reduction, and sustainable fisheries. His research interests include microplastics removal in water systems and the One Health approach, bridging environmental sustainability and public health. Passionate about ocean protection and community empowerment, Joab engages youth and coastal communities to drive innovation, collaboration, and stewardship for a thriving blue economy.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744133430/onn/7ad65bbc-d2c1-4585-b58c-f92267ba2fcb_nebvcj.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344097/word_media_image3_w1dpmt.webp",
   },
   {
     name: "Pacalia Maiga",
@@ -69,7 +69,7 @@ const leadership: TeamMemberType[] = [
     email: "",
     bio: "Pascalia is a junior economist with a background in economics, statistics, and data science. She holds a Bachelor of Science degree in Economics anStatistics from Egerton University and a Data Science Certificate from  Moringa School. Currently based at the Kenya National Youth Service Headquarters,serving as a Junior Economist. Her expertise includes  financial and economic analysis, data visualization,and statistical modeling using Python, R,and Excel.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744133450/onn/612d9790-1647-44b8-a8e1-78a7b3133dec_nzctvm.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344098/word_media_image9_wax8vr.webp",
   },
   {
     name: "Nicole Mumbi",
@@ -77,7 +77,7 @@ const leadership: TeamMemberType[] = [
     email: "",
     bio: "Nicole is a dedicated marine conservationist with an educational background in applied biology. She intends on working to protect the marine ecosystems and to promote sustainable practices.She Passionate about education and outreach in order to  raise awareness about marine conservation and inspire future generations of environmental stewards. At ONN she establishes relationships with potential partners, such as other organizations, donors, government agencies, or corporate entities, to support the organization’s mission and objectives as well as to engage and maintain relationships with a variety of stakeholders, including community leaders, donors, government officials, and other partners, ensuring clear communication and collaboration.",
     portrait:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744133450/onn/def4604f-793c-4243-9f08-5edf18f969c5_bhuusu.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344097/word_media_image8_eiqvco.webp",
   },
   {
     name: "Angel Mutai ",

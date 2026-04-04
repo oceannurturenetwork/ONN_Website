@@ -47,7 +47,7 @@ const Impact = () => (
     <Card className="w-full lg:w-[50%] p-0 h-[430px] relative overflow-hidden">
       <AppImage
         src={
-          "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744144040/onn/WhatsApp_Image_2025-04-07_at_14.05.30_jf6ndp.jpg"
+          "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342082/Save_our_Ocean_gygabl.webp"
         }
         alt="Who we are"
         title="Who we are"

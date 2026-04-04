@@ -22,9 +22,9 @@ const Page = () => {
       <Hero
         title="Blue Economy Development in the WIO"
         subtitle="Coral reefs are among the most diverse ecosystems, supporting marine life and coastal economies. However, they are increasingly threatened by climate change, pollution, and overfishing."
-        image={
-          "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1743764819/onn/fish-lagoon-sunlight-exotic-animal_1253-717-min_jauuyp.jpg"
-        }
+        // image={
+        //   "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1743764819/onn/fish-lagoon-sunlight-exotic-animal_1253-717-min_jauuyp.jpg"
+        // }
       />
 
       <Stats
@@ -58,7 +58,7 @@ const Page = () => {
           "Partnering with governments, researchers, and coastal communities to drive long-term impact",
         ]}
         side_image={
-          "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1749163151/onn/many-fishes-sea-min_mqwsgt.jpg"
+          "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342084/Training_wbqahw.webp"
         }
       />
 
@@ -76,7 +76,7 @@ const cards = [
   {
     title: "🛠️ Blue Livelihoods Empowerment",
     image:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1749163748/onn/top-view-old-tanker-that-ran-aground-overturned-shore-near-coast-min_r07pga.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344095/summer-concept-with-boats-copyspace_xbixcf.webp",
     // "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1746722721/onn/coral-bleaching-threat-sealife_23-2151002022_jzgbwl.jpg", // Replace with actual image path
     backText:
       "Training, market access, and value chain development for youth and women in coastal communities.",
@@ -87,7 +87,7 @@ const cards = [
   {
     title: "🚀 Sustainable Ocean Enterprises",
     image:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1749163758/onn/sea-beach-min_a7mdlu.jpg",
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344095/fishing-boat-port_cifhi4.webp",
     // "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1746722721/onn/beautiful-colorful-small-fishes-swimming-tank_181624-35808_o9mcwi.jpg", // Replace with actual image path
     backText:
       "Supporting eco-friendly startups aligned with marine conservation and inclusive growth.",
@@ -98,7 +98,7 @@ const cards = [
   {
     title: "🌍 Community Ocean Champions",
     image:
-      "https://res.cloudinary.com/dyo0ezwgs/image/upload/v1746722721/onn/octopus-seen-its-underwater-natural-habitat_23-2151462523_zs33he.jpg", // Replace with actual image path
+      "https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344096/snorkeling-activity-yacht-sea-ocean_sa9kkk.webp", // Replace with actual image path
     backText:
       "Building local capacity through ocean literacy, stewardship, and grassroots action.",
     // "Community involvement is key. We work with local communities to raise awareness, train divers, and ensure sustainable coral protection.",

@@ -77,7 +77,7 @@ export default function ContactForm() {
         {/* Left side - Image */}
         <div className="w-[50%] hidden lg:block h-[630px] relative overflow-hidden">
           <AppImage
-            src="https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744842212/onn/WhatsApp_Image_2025-04-17_at_00.11.15_1_h1masg.jpg"
+            src="https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775342085/Rising_Tides1_gei4wy.webp"
             alt="Contact"
             title="Contact"
             objectFit="cover"

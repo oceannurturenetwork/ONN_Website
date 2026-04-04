@@ -68,7 +68,7 @@ export function DonateModalButton({ className }: { className?: string }) {
           <Card className="hidden lg:flex h-[500px] w-[400px] pt-0 px-0 overflow-hidden">
             <div className="w-full h-[250px] relative overflow-hidden">
               <AppImage
-                src="https://res.cloudinary.com/dyo0ezwgs/image/upload/v1744144041/onn/WhatsApp_Image_2025-04-07_at_14.05.28_1_vy8qns.jpg"
+                src="https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344095/city-park-with-lake_nhwwlv.webp"
                 alt="donation"
                 title="donation"
                 objectFit="cover"

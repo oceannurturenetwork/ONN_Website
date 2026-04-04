@@ -37,7 +37,7 @@ export const RaiseModal = () => {
         <div>
           <div className="w-full">
             <AppImage
-              src="https://res.cloudinary.com/dyo0ezwgs/image/upload/v1749223100/onn/WhatsApp_Image_2025-06-06_at_17.58.21_1_obmzuu.jpg"
+              src="https://res.cloudinary.com/dl0cuzahq/image/upload/q_auto/f_auto/v1775344095/city-park-with-lake_nhwwlv.webp"
               alt="Ocean Image"
               title="Ocean Image"
               className="w-full h-[200px] object-cover"
